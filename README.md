@@ -52,7 +52,7 @@
 # 一、前言
 尽管这些年国内的IT行业发展迅速，但是仍然欠缺一套比较系统性的工程师职级胜任力框架，这就造成国内很多工程师大都偏技术执行(一心只想成为技术大牛)，从而忽视了自己全方位的工程师职业素养和能力的培养。
 
-最近我有幸读到了Circle CI公司分享的[工程胜任力矩阵](./CircleCI Engineering Competency Matrix [public version].xlsx)，我发现这份文档就是一份比较贴合互联网研发型企业的工程师胜任力框架，于是我在它的基础上，重新整理出了一份更适合国内工程师阅读的《工程师职级胜任力框架》，并把它分享在我的[github站点](https://github.com/spring2go/engineer_completency_model)上，希望这份文档对工程师的职业开发和成长有帮助。注，Circle CI是美国一家专注CI/CD持续交付领域的SaaS企业服务公司，公司成立于2011年，今年(2020年)已经融到E轮1亿美金融资。工程胜任力矩阵是Circle CI公司的HR和工程团队联合开发，于2018年在其[技术博客上](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)公开分享出来的。
+最近我有幸读到了Circle CI公司分享的[工程胜任力矩阵](https://github.com/spring2go/engineer_completency_model/blob/main/CircleCI%20Engineering%20Competency%20Matrix%20%5Bpublic%20version%5D.xlsx)，我发现这份文档就是一份比较贴合互联网研发型企业的工程师胜任力框架，于是我在它的基础上，重新整理出了一份更适合国内工程师阅读的《工程师职级胜任力框架》，并把它分享在我的[github站点](https://github.com/spring2go/engineer_completency_model)上，希望这份文档对工程师的职业开发和成长有帮助。注，Circle CI是美国一家专注CI/CD持续交付领域的SaaS企业服务公司，公司成立于2011年，今年(2020年)已经融到E轮1亿美金融资。工程胜任力矩阵是Circle CI公司的HR和工程团队联合开发，于2018年在其[技术博客上](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)公开分享出来的。
 
 # 二、目标
 
